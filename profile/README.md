@@ -1,122 +1,70 @@
 <div align="center">
 
-<img src="./assets/cubo-logo.png" width="150" alt="Cubo Works Logo">
+<img src="./assets/cubo-logo.png" width="120" alt="Cubo Works Logo">
 
-# CUBO WORKS
-
-### We build software that moves businesses forward.
-
-**Custom systems. Digital products. Bold ideas.**
+# Cubo Works
 
 ### Don't be square. Build with Cubo.
 
-<br>
+We build custom software for businesses and create our own digital products.
 
-<a href="https://www.cuboworks.com">
-  <img src="https://img.shields.io/badge/Website-cuboworks.com-111111?style=for-the-badge">
-</a>
+[Website](https://www.cuboworks.com)
 
 </div>
 
 ---
 
-## About Cubo
+## What we do
 
-**Cubo Works** is a software company focused on building custom digital solutions for businesses while also developing our own products.
+We design and build software for companies that need solutions tailored to the way they work.
 
-We work from idea to production, creating scalable applications, internal systems, APIs, SaaS platforms and AI-powered solutions.
+Our work includes:
 
-Our goal is simple:
-
-> Turn complex problems into simple, useful and well-built software.
-
----
-
-## What we build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Custom Software
-
-Systems designed around the specific needs of a business.
-
-- Business management systems
-- Internal platforms
-- Administrative dashboards
-- Workflow automation
-- Customer portals
-- Custom web applications
-
-</td>
-
-<td width="50%" valign="top">
-
-### Digital Products
-
-Products created and developed inside Cubo Works.
-
+- Custom business systems
+- Web applications
 - SaaS platforms
-- AI-powered products
-- Productivity tools
-- Data-driven applications
-- Experimental products
-- New digital ventures
+- APIs and backend services
+- Workflow automation
+- AI-powered solutions
+- Internal tools
+- Digital products
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Backend & APIs
-
-Reliable infrastructure behind modern applications.
-
-- REST APIs
-- Business logic
-- Integrations
-- Authentication
-- Databases
-- Third-party services
-
-</td>
-
-<td width="50%" valign="top">
-
-### Artificial Intelligence
-
-AI integrated where it creates real value.
-
-- LLM integrations
-- Intelligent assistants
-- Data analysis
-- Automation
-- AI-powered workflows
-- Product intelligence
-
-</td>
-</tr>
-</table>
+We also create and operate our own products under the **Cubo Works** ecosystem.
 
 ---
 
-## How we work
+## Products
 
-We believe good software starts before the first line of code.
+### Stock Information
 
-```text
-Idea
-  ↓
-Discovery
-  ↓
-Architecture
-  ↓
-Development
-  ↓
-Review & Testing
-  ↓
-Deployment
-  ↓
-Evolution
+Financial market information and intelligence platform currently under development.
+
+`In Development`
+
+More products are coming.
+
+---
+
+## How we build
+
+We care about simple architecture, maintainable code and products that solve real problems.
+
+Our development workflow is based on:
+
+`Issues` · `Branches` · `Pull Requests` · `Code Review` · `Testing` · `Documentation` · `CI/CD`
+
+---
+
+<div align="center">
+
+### Have something to build?
+
+**Let's build it with Cubo.**
+
+[www.cuboworks.com](https://www.cuboworks.com)
+
+<br>
+
+**Don't be square. Build with Cubo.**
+
+</div>
